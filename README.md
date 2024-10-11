@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hola soy Alex Lezana 👋
 
-<!--
-**alezana85/alezana85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me encanta adquirir nuevas habilidades como Analista de Datos.
+Las herramientas con las que trabajo son las siguientes:
+ - Python
+ - SQL
+ - Tableau
 
-Here are some ideas to get you started:
+Y las librerias con las que me he desarrollado en python son:
+ - Matplotlib
+ - Seaborn
+ - Dash
+ - Selenium Webdriver
+ - BeautifulSoup
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Puedes encontrarme tambien en:
+ - [Linkedin](https://www.linkedin.com/in/alejandro-lezana-duran/)
