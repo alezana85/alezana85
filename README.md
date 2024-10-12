@@ -25,23 +25,12 @@ Aquí tienes algunas de las tecnologías y herramientas que manejo:
 
 ## Proyectos Destacados
 
-- [Proyecto 1](enlace_del_proyecto): Descripción breve del proyecto.
-- [Proyecto 2](enlace_del_proyecto): Descripción breve del proyecto.
-- [Proyecto 3](enlace_del_proyecto): Descripción breve del proyecto.
+- [A/B Test](https://github.com/alezana85/AB_Test): Proyecto de una prueba A/B para marketing.
+- [Instacart](https://github.com/alezana85/instacart): Habitos de compra de los usuarios de Instacart.
+- [Automatizacio SS](https://github.com/alezana85/confronta_sua): Script para el rpocesos de calculo de cuotas del Seguro Social.
 
 ## Contáctame
 
 [![Alejandro Lezana](https://img.shields.io/badge/Alejandro%20Lezana-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/alejandro-lezana-duran/)
 
 ¡Gracias por visitar mi perfil!
-
-
-
-### Skills:
-![Python](https://img.shields.io/badge/Python-008000?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)  
-![SQL](https://img.shields.io/badge/SQL-0000ff?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=101010)  
-![Tableau](https://img.shields.io/badge/Tableau-ff0000?style=for-the-badge&logo=tableau&logoColor=white&labelColor=101010)  
-
-### Redes:   
-  
-[![Alejandro Lezana](https://img.shields.io/badge/Alejandro%20Lezana-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/alejandro-lezana-duran/)
