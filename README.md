@@ -1,5 +1,7 @@
 ## Hola soy Alex Lezana 👋
 
+![GIF Rotado](https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif)
+
 Soy un analista de datos apasionado con experiencia en el uso de herramientas y lenguajes como **Python**, **SQL**, **Matplotlib**, **Dash**, **Seaborn**, **Tableau** y **Selenium WebDriver**. Me enfoco en el análisis de datos y la limpieza de big data para extraer información valiosa y ayudar en la toma de decisiones.
 
 ## Habilidades
