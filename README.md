@@ -8,4 +8,4 @@ Me encanta adquirir nuevas habilidades y me gusta participar en nuevos proyectos
 ![Tableau](https://img.shields.io/badge/Tableau-0000ff?style=for-the-badge&logo=tableau&logoColor=white&labelColor=101010)
 
 Puedes encontrarme tambien en:
- - [Linkedin](https://www.linkedin.com/in/alejandro-lezana-duran/)
+[![Alejandro Lezana](https://img.shields.io/badge/Alejandro%20Lezana-0000ff?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/alejandro-lezana-duran/)
